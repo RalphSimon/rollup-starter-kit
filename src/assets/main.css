@@ -405,12 +405,6 @@ template {
 [hidden] {
   display: none; }
 
-.message-success {
-  border: 2px solid #5DC8A1;
-  color: #5DC8A1;
-  padding: 1em;
-  border-radius: 5px; }
-
 body {
   padding: 1.5em; }
 
@@ -423,6 +417,12 @@ body {
 .message-info {
   border: 2px solid #2F56A2;
   color: #2F56A2;
+  padding: 1em;
+  border-radius: 5px; }
+
+.message-success {
+  border: 2px solid #5DC8A1;
+  color: #5DC8A1;
   padding: 1em;
   border-radius: 5px; }
 
